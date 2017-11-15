@@ -1,7 +1,7 @@
 /**************************************************************************************************************************************
 ***************************************************************************************************************************************
  * Team ID:     eYRCPlus-SR#935
- * Author List:	Sanjay A C, Vikas H C, Keerthana A B, Sucharitha Bhat J S. 	  
+ * Author List:	Sanjay A C, Vikas H C  
  * Filename:	Rescue_10.c
  * Theme:		Search and Rescue
  * Functions:	dijsktra,init_devices, setp, setPlot, set_adj_Plots, set_adj_node, updatePlot, get_dir, turn, detect_block, plot_scan,
