@@ -1,7 +1,7 @@
 /***************************************************************************************************************************************
 ****************************************************************************************************************************************
  * Team ID:     B34
- * Author List:	Sanjay A C, Vikas H C, Keerthana A B, Sucharitha Bhat J S.
+ * Author List:	Keerthana A B
  * Filename:	Search.c
  * Theme:		Search and Rescue
  * Functions:	dijsktra, setp, setPlot, set_adj_Plots, set_adj_node, updatePlot, get_row, get_col, get_dir, turn,
